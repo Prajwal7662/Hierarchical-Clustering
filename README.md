@@ -1,8 +1,7 @@
-# 📘 Hierarchical Clustering — README
-
+# 📘 Hierarchical Clustering 
 ## 🏷️ Project Title
 
-Hierarchical Clustering Analysis (Notebook)
+Hierarchical Clustering Analysis 
 
 ## 📄 Summary
 
